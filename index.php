@@ -11,7 +11,7 @@
 			<li><a href="about.php">About</a></li>
 		</ul>
 		
-		<h1>My Home</h1>
+		<h1>My Home (Sweet Shop)</h1>
 
 	</body>
 	
