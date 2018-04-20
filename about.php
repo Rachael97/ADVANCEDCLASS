@@ -16,6 +16,8 @@
 		
 		<img src="animal.jpg" />
 		
+		<p>This is a very cute animal.</p>
+		
 	</body>
 	
 </html>
