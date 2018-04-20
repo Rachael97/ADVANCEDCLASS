@@ -12,7 +12,8 @@
 		</ul>
 		
 		<h1>My Home</h1>
-
+		<p>Welcome to our website!!!</p>
+		
 	</body>
 	
 </html>

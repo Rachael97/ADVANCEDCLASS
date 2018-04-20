@@ -14,6 +14,8 @@
 		<h1>About Us</h1>
 		<p>This page is under construction.</p>
 		
+		<img src="animal.jpg" />
+		
 	</body>
 	
 </html>
