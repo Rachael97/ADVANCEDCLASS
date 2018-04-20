@@ -14,8 +14,7 @@
 		<h1>My Home (Sweet Shop)</h1>
 
 		<p>Welcome to our website!!!</p>
-		
->>>>>>> about_content_feature
+
 	</body>
 	
 </html>
