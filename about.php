@@ -5,14 +5,15 @@
 	</head>
 	
 	<body>
-		
+	
 		<ul>
 			<li><a href="index.php">Home</a></li>
 			<li><a href="about.php">About</a></li>
 		</ul>
 		
-		<h1>My Home</h1>
-
+		<h1>About Us</h1>
+		<p>This page is under construction.</p>
+		
 	</body>
 	
 </html>
